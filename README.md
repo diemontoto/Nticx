@@ -1,0 +1,2 @@
+# nticx
+Repositorio de nticx
